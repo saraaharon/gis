@@ -45,4 +45,5 @@ Raster difference analysis produced:
 ✧ 1 → forest expansion
 
 Pixel counts were converted to area values (m² and ha) using image resolution.
+
 Final statistics were exported to Excel for analysis and visualization.
