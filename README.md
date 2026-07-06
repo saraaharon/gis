@@ -1,4 +1,4 @@
-Collection of GIS and remote sensing projects developed during my studies at Alexandru Ioan Cuza University.
+Collection of GIS and remote sensing projects developed during my studies at Alexandru Ioan Cuza University of Iași, Romania.
 
 ## Skills
 - QGIS
